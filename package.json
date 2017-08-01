@@ -1,6 +1,6 @@
 {
   "name": "xyz-components",
-  "description": "XYZ components",
+  "description": "XYZ components for demo",
   "version": "0.0.1",
   "main": "dist/index.js",
   "scripts": {
