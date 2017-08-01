@@ -1,23 +1,25 @@
 # 介绍
-xyz-components是基于vue2.0的组件库。
+xyz-components是基于vue2.0的组件库，用于demo。
 
-引用时可以
+# 使用
 
-###直接引入js
+### 直接引入js
 ```
-
 <script src="path/to/xyz-components/dist/index.js"></script>
 ```
-###通过npm安装
+### 通过npm安装
+```
+npm install xyz-components
+```
 
-# 开发 
+## 开发 
 * `npm install`
 * `npm run build`,打包压缩组件库到dist目录
 
-# 新写组件
+## 新写组件
 * 在`src/components`下新建组件
 * 在`src/index.js`文件中，注册新组件
 
 
-# 更多问题#
+## 更多问题
 请联系zzsanduo@gmail.com
